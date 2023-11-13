@@ -1,0 +1,6 @@
+C:\Users\ArkadiuszNowak(26337\Desktop\EncDec\Biblioteka\EncryptingDecryptingLibrary\RFIDLibrary\bin\Debug\RFIDLibrary.dll
+C:\Users\ArkadiuszNowak(26337\Desktop\EncDec\Biblioteka\EncryptingDecryptingLibrary\RFIDLibrary\bin\Debug\RFIDLibrary.pdb
+C:\Users\ArkadiuszNowak(26337\Desktop\EncDec\Biblioteka\EncryptingDecryptingLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.csproj.AssemblyReference.cache
+C:\Users\ArkadiuszNowak(26337\Desktop\EncDec\Biblioteka\EncryptingDecryptingLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ArkadiuszNowak(26337\Desktop\EncDec\Biblioteka\EncryptingDecryptingLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.dll
+C:\Users\ArkadiuszNowak(26337\Desktop\EncDec\Biblioteka\EncryptingDecryptingLibrary\RFIDLibrary\obj\Debug\RFIDLibrary.pdb
